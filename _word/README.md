@@ -1,4 +1,4 @@
-# Automatically Convert MS Word (*.docx) Documents To Blog Posts
+# Automatically Convert MS Word (*.docx) Documents To Blog Postss
 
 _Note: You can convert Google Docs to Word Docs by navigating to the File menu, and selecting Download > Microsoft Word (.docx)_
 
